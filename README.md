@@ -20,8 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-<div></div>
+<div align="center">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdanvakh&show_icons=true&locale=en&layout=compact" alt="bohdanvakh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdanvakh&show_icons=true&locale=en" alt="bohdanvakh" /></p>
+
+</div>
