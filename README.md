@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a passionate backend developer specializing in Ruby and Ruby on Rails. With a strong foundation in backend technologies, I love crafting robust and efficient solutions that power the core functionality of web applications.
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
