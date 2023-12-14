@@ -1,4 +1,4 @@
-## Ruby / Ruby on Rails Developer 💎
+</h3>Ruby / Ruby on Rails Developer 💎</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
