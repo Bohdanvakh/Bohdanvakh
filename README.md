@@ -1,22 +1,16 @@
-<h3>Hi 👋</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-</div>
+Hello guys. My name is Bohdan Vakh. I am an experienced Back End Developer.
+Technologies I use and have experience with: 
+Ruby / Rails / API / PostgresQl | Graphql | GIT | Swagger | Postman | RSpec etc.
 
-<div align="center">
+My social media:
+<a href="https://www.facebook.com/bohdan.vakh">FB</a>
+<a href="https://www.instagram.com/bohdanvakh/?hl=uk">IG</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdanvakh&show_icons=true&locale=en&layout=compact" alt="bohdanvakh" /></p>
+More about my experience in my <a href="https://drive.google.com/file/d/1u4rQENCuTY82Wpkf0Tl0fdgt6GKdWt2n/view?usp=sharing">CV</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdanvakh&show_icons=true&locale=en" alt="bohdanvakh" /></p>
+Remember that one interesting quote 
 
-</div>
+"They know that hoping to achieve good things without taking actions 
+is like hoping for help without asking for it."
+
+Have a nice day guys :)
