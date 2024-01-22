@@ -1,4 +1,4 @@
-Hello guys. My name is Bohdan Vakh. I am an experienced Back End Developer.
+Hello guys. My name is Bohdan. I am an experienced Back End Developer.
 Technologies I use and have experience with: 
 Ruby / Rails / API / PostgresQl | Graphql | GIT | Swagger | Postman | RSpec etc.
 
