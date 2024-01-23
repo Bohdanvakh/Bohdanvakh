@@ -1,6 +1,6 @@
 Hello guys. My name is Bohdan. I am an experienced Back End Developer.
 Technologies I use and have experience with: 
-Ruby / Rails / API / PostgresQl | Graphql | GIT | Swagger | Postman | RSpec etc.
+Ruby / Rails / API / PostgreSQL | Graphql | GIT | Swagger | Postman | RSpec etc.
 
 My social media:
 <a href="https://www.facebook.com/bohdan.vakh">FB</a>
