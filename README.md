@@ -1,1 +1,1 @@
-Ruby / Ruby on Rails Developer
+Software Engineer  (Ruby / Rails / Sidekiq / SQL / AI / CI/CD / Dynamics Business Central / AL)
